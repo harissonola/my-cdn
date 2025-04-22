@@ -1,0 +1,27 @@
+/* Largeur de la scrollbar */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Couleur de fond de la scrollbar */
+  ::-webkit-scrollbar-track {
+    /* 
+    background-color: linear-gradient(102.27deg, #38ABFF 4.69%, #3874FF 106.27%); 
+    */
+  }
+  
+  /* Couleur de remplissage de la scrollbar */
+  ::-webkit-scrollbar-thumb {
+    background-color: #004dff;
+    border-radius: 60px;
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+}
+  
+  /* Couleur au survol de la scrollbar */
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #eff2f6;
+  }
+  

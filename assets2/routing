@@ -1,0 +1,2 @@
+// /**/fos.Router.setData({"base_url":"","routes":[],"prefix":"","host":"wodhenterprise.site","port":"","scheme":"https","locale":"fr-FR"});//A remetre avant la mise en ligne
+/**/fos.Router.setData({"base_url":"","routes":[],"prefix":"","host":"localhost","port":"8000","scheme":"http","locale":"fr-FR"});//A retirer avant la mise en ligne
